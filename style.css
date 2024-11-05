@@ -1,0 +1,23 @@
+body{
+    font-family: Poppins, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    padding-inline: 0.2em;
+    padding-block: 0.2em;
+}
+
+td, th {
+    border: 1px solid black;
+    padding-inline: 0.2em;
+    padding-block: 0.2em;
+    text-align: left;
+    padding: 0em 3em;
+}
+th{
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.2em;
+}
